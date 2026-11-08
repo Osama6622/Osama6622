@@ -25,9 +25,3 @@ Senior Frontend Developer based in Riyadh, Saudi Arabia, with over 4 years of pr
 * **LinkedIn:** [osama-nos7y](https://www.linkedin.com/in/osama-nos7y/)[cite: 2]
 * **Email:** osamanoshey71@gmail.com[cite: 2]
 
----
-
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama6622&show_icons=true&theme=dark" alt="Osama's GitHub Stats" />
-</p>
