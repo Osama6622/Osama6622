@@ -1,27 +1,27 @@
 ### Hi there 👋, I'm Osama Noshy!
 
-Senior Frontend Developer based in Riyadh, Saudi Arabia, with over 4 years of professional experience building responsive, high-performance web applications, enterprise platforms, and government digital solutions[cite: 2, 3]. Proficient in modern JavaScript frameworks, clean architecture, and scalable UI development[cite: 2, 3].
+Senior Frontend Developer based in Riyadh, Saudi Arabia, with over 4 years of professional experience building responsive, high-performance web applications, enterprise platforms, and government digital solutions. Proficient in modern JavaScript frameworks, clean architecture, and scalable UI development.
 
 ---
 
 ### 💼 Professional Experience:
-* **NCGR (National Center for Government Resources):** Senior Frontend Developer working on Etimad Portals and Debt Management[cite: 3].
-* **Link Development:** Senior Frontend Developer contributing to Monshaat Portals and the Tawakkalna App[cite: 3].
-* **Silky Systems:** Frontend Developer focusing on accounting systems, CRUD modules, and reusable component libraries[cite: 3].
-* **Huawei Technologies:** Software Engineer & Team Lead, engineering telecommunication apps (Philippines Converge, CEM solutions, and GIS Map integrations for Orange & Etisalat)[cite: 3].
+* **NCGR (National Center for Government Resources):** Senior Frontend Developer working on Etimad Portals and Debt Management.
+* **Link Development:** Senior Frontend Developer contributing to Monshaat Portals and the Tawakkalna App.
+* **Silky Systems:** Frontend Developer focusing on accounting systems, CRUD modules, and reusable component libraries.
+* **Huawei Technologies:** Software Engineer & Team Lead, engineering telecommunication apps (Philippines Converge, CEM solutions, and GIS Map integrations for Orange & Etisalat).
 
 ---
 
 ### 🛠️ Technical Skills & Stack:
-* **Programming Languages:** JavaScript (ES6+), TypeScript[cite: 4]
-* **Frameworks & Libraries:** Vue.js (Vuex, Vue Router), Angular, jQuery, Bootstrap, Tailwind CSS, Element UI[cite: 4]
-* **Build Tools & Testing:** Vite, Webpack, Vitest[cite: 4]
-* **Web Services & DB:** RESTful APIs, Axios, AJAX, JSON, Basic MySQL[cite: 4]
-* **Tools & Workflow:** Git, GitHub, Bitbucket, Agile Methodologies[cite: 4]
+* **Programming Languages:** JavaScript (ES6+), TypeScript
+* **Frameworks & Libraries:** Vue.js (Vuex, Vue Router), Angular, jQuery, Bootstrap, Tailwind CSS, Element UI
+* **Build Tools & Testing:** Vite, Webpack, Vitest
+* **Web Services & DB:** RESTful APIs, Axios, AJAX, JSON, Basic MySQL
+* **Tools & Workflow:** Git, GitHub, Bitbucket, Agile Methodologies
 
 ---
 
 ### 🌐 Connect with Me:
-* **LinkedIn:** [osama-nos7y](https://www.linkedin.com/in/osama-nos7y/)[cite: 2]
-* **Email:** osamanoshey71@gmail.com[cite: 2]
+* **LinkedIn:** [osama-nos7y](https://www.linkedin.com/in/osama-nos7y/)
+* **Email:** osamanoshey71@gmail.com
 
