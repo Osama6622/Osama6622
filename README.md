@@ -29,8 +29,5 @@ Senior Frontend Developer based in Riyadh, Saudi Arabia, with over 4 years of pr
 
 ### 📊 GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osama6622&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama6622&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osama6622&show_icons=true&theme=dark" alt="Osama's GitHub Stats" />
 </p>
