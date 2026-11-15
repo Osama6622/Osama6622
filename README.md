@@ -24,4 +24,5 @@ Senior Frontend Developer based in Riyadh, Saudi Arabia, with over 4 years of pr
 ### 🌐 Connect with Me:
 * **LinkedIn:** [osama-nos7y](https://www.linkedin.com/in/osama-nos7y/)
 * **Email:** osamanoshey71@gmail.com
+* **Portofolio:** https://osamadev-delta.vercel.app/
 
